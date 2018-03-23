@@ -1,0 +1,22 @@
+.weather-list  > ul li {
+    border-bottom: 1px solid #ededed;
+    line-height: 70px;
+    padding:0px 10px;
+}
+
+.weather-list ul li:hover {
+    cursor: pointer;
+}
+
+.active {
+    background: #FFFF33;
+}
+.weather-detail {
+    float: right;
+    font-size:12px;
+    color: #A9A9A9;
+}
+.weather-detail label {
+    display: inline-block;
+
+}

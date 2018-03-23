@@ -1,0 +1,12 @@
+body, ul,input {
+    padding: 0px;
+    margin: 0px;
+    outline: none;
+}
+
+*:focus {
+    outline: none;
+}
+ul {
+    list-style: none;
+}
